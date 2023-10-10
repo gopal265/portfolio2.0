@@ -173,7 +173,7 @@ export const projects = [
   {
     id: 2,
     title: "Ecommerce Website",
-    date: "Aug 2023 - Sep 2023",
+    date: "Aug 2023 - Present",
     description:
       "",
     image:connect,
