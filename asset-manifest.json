@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio2.0/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio2.0/static/js/main.b8eec5ee.js",
+    "static/media/pokedex.png": "/portfolio2.0/static/media/pokedex.23f421b6a9df2b67cff5.png",
+    "static/media/connect.png": "/portfolio2.0/static/media/connect.3304381c5d4bbd7a0fb2.png",
+    "static/media/Photo.jpg": "/portfolio2.0/static/media/Photo.9cf0fdf9f7f669227aed.jpg",
+    "index.html": "/portfolio2.0/index.html",
+    "main.bf538fe7.css.map": "/portfolio2.0/static/css/main.bf538fe7.css.map",
+    "main.b8eec5ee.js.map": "/portfolio2.0/static/js/main.b8eec5ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.b8eec5ee.js"
+  ]
+}
