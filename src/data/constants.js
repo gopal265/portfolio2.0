@@ -1,5 +1,6 @@
 import pokedex from "../images/pokedex.png"
 import connect from "../images/connect.png"
+import shopcart from "../images/shopcart.png"
 import talentsprint from "../images/talentsprint.png"
 import nitc from "../images/nitc.jpeg"
 import narayana from "../images/narayana.png"
@@ -176,7 +177,7 @@ export const projects = [
     date: "Aug 2023 - Present",
     description:
       "",
-    image:connect,
+    image:shopcart,
     tags: [
       "React Js",
       "MongoDb",
