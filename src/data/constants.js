@@ -176,7 +176,7 @@ export const projects = [
     title: "Ecommerce Website",
     date: "Aug 2023 - Present",
     description:
-      "",
+      "Built a fully functioned ecomBuilt a fully functioned and advanced MERN stack e-commerce platform. Explore a diverse product catalog, streamline user profiles, track orders, and harness comprehensive admin features.Built with MongoDB, Express, React, Node.",
     image:shopcart,
     tags: [
       "React Js",
@@ -188,8 +188,8 @@ export const projects = [
       "Bootstrap"
     ],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/gopal265/ecommerce.git",
+    webapp: "https://stylosphere.onrender.com",
   },
   {
     id: 0,
